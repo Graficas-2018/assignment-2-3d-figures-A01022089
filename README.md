@@ -14,6 +14,8 @@ Rubric:
 4. Each face of each figure was rendered with a different color. *Complete*
 5. The figures were transformed correctly. *Complete*
 
+**Grade: 100**
+
 <img src="Images/Pyramid.png" width="300">
 <br/>Figure 1: 3D Pyramid.<br/>
 
